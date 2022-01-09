@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center" style"border-radius:15px">
+  <img src="https://cdn.discordapp.com/banners/442355791412854784/e4c3381efba7362b4d8e8b7e918dd8dc.png?size=4096" style"width: 100%;border-radius:15px">
+</div>
 
-<!--
-**light-moon0/light-moon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+  
+***
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://light-moon)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently coding in **Javascript** and C#.  
+  
+
+- ❓  I am in love with coding Discord Bots, I also love helping!.
+  
+<br/>
+  
+***
+
+## [Discord Server 🌕](https://discord.gg/light-moon) | [Website](https://light-moon.site)
+<a href="https://discord.gg/light-moon"><img src="https://discord.com/api/guilds/590695145087828005/widget.png?style=banner2"></a>
+
+***
