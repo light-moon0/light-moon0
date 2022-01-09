@@ -6,8 +6,9 @@
 <a href="https://open.spotify.com/user/oqkle4gktejw4lx8qebkkyd0g?si=OcZZy3bRQ6-We5cuxSFRyA" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/mr_bad1700" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/light-moon0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</br><img src="https://komarev.com/ghpvc/?username=Fayikcim&color=dc143c"/>
-</p>
+</br>
+
+
 
 ## Langauges I Know:
 
